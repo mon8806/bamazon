@@ -24,7 +24,8 @@
 
 ## Link to Deployed App
 
-https://github.com/mon8806/bamazon-app
+https://mon8806.github.io/bamazon/
+
 
 ## Technologies Used:
 * Node
